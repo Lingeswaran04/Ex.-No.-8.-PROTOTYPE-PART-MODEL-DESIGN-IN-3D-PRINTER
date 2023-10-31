@@ -48,8 +48,8 @@
 ## Output:
 ![image](https://github.com/hariprasath5106/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/111515488/5370de61-3404-42ca-84ff-5056549eb5b3)
 
-### Name: HARINI M D
-### Register Number: 212222230043
+### Name: LINGESWARAN K
+### Register Number: 212222110022
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
